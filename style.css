@@ -1,0 +1,47 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 250%;
+}
+
+h2 {
+  color: black;
+  font-family: arial;
+  font-size: 200%;
+}
+
+p {
+  color: purple;
+  font-family: gill sans;
+  font-size: 150%;
+  /*border: 2px solid;
+  padding: 30px;
+  margin: 25px;*/
+}
+
+ul {
+  color: black;
+  font-family: menlo;
+  font-size: 24em%;
+}
+
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  border-style: dotted;
+  border-color: blue;
+  font-family: arial;
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+th, td {
+  background-color: pink;
+}
+
+tr:hover {background-color: #D6EEEE}
